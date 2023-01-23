@@ -1,0 +1,4 @@
+(*  *)
+
+channel c
+channel c.

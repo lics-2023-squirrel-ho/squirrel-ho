@@ -1,0 +1,7 @@
+true: use_menhir, explain
+true: bin_annot
+true: debug
+
+<src>   : include
+<src/*> : coverage
+<test.byte> : coverage
