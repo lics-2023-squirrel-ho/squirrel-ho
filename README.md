@@ -1,5 +1,11 @@
 # Squirrel Prover
 
+## Visualize Examples
+
+To visualize the examples in `examples/ho/` without compiling, simply
+open the files `html/authdh.html` or `html/hybrid.html` using a web
+browser.
+
 ## Build
 
 You need OCaml version 4.10 or more (tested up to 4.13.1).
